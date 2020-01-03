@@ -22,7 +22,8 @@
     <ClInclude Include="Sokoban.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Sokoban.cpp" />
+    <ClCompile Include="Use_Sokoban.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
