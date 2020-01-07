@@ -1,19 +1,5 @@
 ﻿  Sokoban.cpp
-C:\Users\chu\Documents\GitHub\Sokoban\Sokoban\Sokoban\Sokoban.cpp(22,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\chu\Documents\GitHub\Sokoban\Sokoban\Sokoban\Sokoban.cpp(110,7): error C2171:  '!': illegal on operands of type 'void'
-C:\Users\chu\Documents\GitHub\Sokoban\Sokoban\Sokoban\Sokoban.cpp(111,1): error C2171:  '!': illegal on operands of type 'void'
-C:\Users\chu\Documents\GitHub\Sokoban\Sokoban\Sokoban\Sokoban.cpp(111,1): error C2296:  '||': illegal, left operand has type 'void'
-C:\Users\chu\Documents\GitHub\Sokoban\Sokoban\Sokoban\Sokoban.cpp(111,1): error C2297:  '||': illegal, right operand has type 'void'
-C:\Users\chu\Documents\GitHub\Sokoban\Sokoban\Sokoban\Sokoban.cpp(150,7): error C2171:  '!': illegal on operands of type 'void'
-C:\Users\chu\Documents\GitHub\Sokoban\Sokoban\Sokoban\Sokoban.cpp(151,1): error C2296:  '||': illegal, left operand has type 'void'
-C:\Users\chu\Documents\GitHub\Sokoban\Sokoban\Sokoban\Sokoban.cpp(229,42): error C2296:  '&&': illegal, left operand has type 'void'
-C:\Users\chu\Documents\GitHub\Sokoban\Sokoban\Sokoban\Sokoban.cpp(238,1): error C2296:  '&&': illegal, left operand has type 'void'
-C:\Users\chu\Documents\GitHub\Sokoban\Sokoban\Sokoban\Sokoban.cpp(239,1): error C2297:  '&&': illegal, right operand has type 'void'
-C:\Users\chu\Documents\GitHub\Sokoban\Sokoban\Sokoban\Sokoban.cpp(252,1): error C2296:  '&&': illegal, left operand has type 'void'
-C:\Users\chu\Documents\GitHub\Sokoban\Sokoban\Sokoban\Sokoban.cpp(253,1): error C2297:  '&&': illegal, right operand has type 'void'
-C:\Users\chu\Documents\GitHub\Sokoban\Sokoban\Sokoban\Sokoban.cpp(270,1): error C2556:  'bool Sokoban::Check(int,int)': overloaded function differs only by return type from 'void Sokoban::Check(int,int)'
-C:\Users\chu\Documents\GitHub\Sokoban\Sokoban\Sokoban\Sokoban.h(39): message :  see declaration of 'Sokoban::Check'
-C:\Users\chu\Documents\GitHub\Sokoban\Sokoban\Sokoban\Sokoban.cpp(269,15): error C2371:  'Sokoban::Check': redefinition; different basic types
   Use_Sokoban.cpp
   Generating Code...
-C:\Users\chu\Documents\GitHub\Sokoban\Sokoban\Sokoban\Sokoban.h(39): message :  see declaration of 'Sokoban::Check'
+C:\Users\chu\Documents\GitHub\Sokoban\Sokoban\Sokoban\Sokoban.cpp(22,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sokoban.vcxproj -> C:\Users\chu\Documents\GitHub\Sokoban\Sokoban\Debug\Sokoban.exe

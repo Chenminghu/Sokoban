@@ -231,7 +231,7 @@ void Sokoban::Move()
 			GameMap[Pex][Pey] = '.';  //people position change
 			GameMap[x][y] = 'P';
 			Pex = x;  Pey = y;
-			dir = -1;  //按键记录为无即-1
+			dir = -1;  
 		}
 		else //if people on the position of box, box go ahead one position with same direction
 			if (Check(x, y) && GameMap[x][y] == '#'
@@ -269,7 +269,7 @@ void Sokoban::Move()
 bool Sokoban::Check(int x, int y)
 {
 	if (x < 0 || x >= H || y < 0 || y >= L)
-		return 0;
+		return false;
 	else
-		return 1;
+		return true;
 }

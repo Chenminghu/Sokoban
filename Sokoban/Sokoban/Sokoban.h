@@ -36,6 +36,6 @@ public:
 	void Show();
 	void Button();
 	void Move();
-	void Check(int x, int y);
+	bool Check(int x, int y);
 };
 #endif
